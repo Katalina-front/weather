@@ -1,6 +1,6 @@
 # SPA the weather app
 
-This application was created as a practical task for the Udemy course
+This application was created while doing practical work on the Udemy course
 
 # Getting Started with Create React App
 
