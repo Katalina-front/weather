@@ -56,14 +56,14 @@
   margin-left: 0;
 }
 
-.ActionButton {
+.ActionButtonWrap {
   display: flex;
   justify-content: flex-end;
 }
 
-.DeleteCity {
+.ActionButton {
   background: #fff;
-  border: none;
+  border: 1px solid black;
 }
 
 .MainInfo {
